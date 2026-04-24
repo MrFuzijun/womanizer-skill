@@ -204,6 +204,6 @@ AGPL3.0 — 涉及内容不可用于商业用途。
 
 <br>
 
-MIT License © [haiyang-perspective](https://github.com/haiyang-perspective)
+AGPL3.0 License © [haiyang-perspective](https://github.com/haiyang-perspective)
 
 </div>
